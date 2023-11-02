@@ -10,5 +10,8 @@ Welcome to my digital space. You can call me Moch! I'm a full-stack software eng
 ### Connect with me:
 
 
+[![website](./assets/logo/gh.svg)](https://github.com/kingdomax)
+[![website](./assets/logo/fb.svg)](https://facebook.com/kingdomax)
+[![website](./assets/logo/ln.svg)](https://linkedin.com/in/pramoch)
 
 ### Languages and Tools:
