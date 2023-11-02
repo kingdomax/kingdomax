@@ -7,9 +7,14 @@ Welcome to my digital space. You can call me Moch! I'm a full-stack software eng
 - 📍 For a peek into my XR explorations, don't miss my pinned repos.
 
 ### Connect with me:
-[![website](./assets/logo/gh.svg)](https://github.com/kingdomax)&nbsp;&nbsp;
-[![website](./assets/logo/fb.svg)](https://facebook.com/kingdomax)&nbsp;&nbsp;
-[![website](./assets/logo/ln.svg)](https://linkedin.com/in/pramoch)
+[![website](./assets/logo/gh-light.svg)](https://github.com/kingdomax#gh-light-mode-only)
+[![website](./assets/logo/gh-dark.svg)](https://github.com/kingdomax#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./assets/logo/fb-light.svg)](https://facebook.com/kingdomax#gh-light-mode-only)
+[![website](./assets/logo/fb-dark.svg)](https://facebook.com/kingdomax#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./assets/logo/ln-light.svg)](https://linkedin.com/in/pramoch#gh-light-mode-only)
+[![website](./assets/logo/ln-dark.svg)](https://linkedin.com/in/pramoch#gh-dark-mode-only)
 
 ### Languages and Tools:
 <div>
