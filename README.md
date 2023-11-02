@@ -34,6 +34,7 @@ Welcome to my digital space. You can call me Moch! I'm a full-stack software eng
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+<br><br><br>
 
-------------
+<hr>
 <p align="center"><i>🌟 Stay curious !!</i></p>
