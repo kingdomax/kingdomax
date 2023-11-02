@@ -5,6 +5,7 @@ Welcome to my digital space. You can call me Moch! I'm a full-stack software eng
 - 🎓 ...I’m currently exploring further, pursuing a Masters in computer science in Germany.
 - 👓 Diving deep into the realms of **Virtual Reality (VR)** and **Augmented Reality (AR) development**.
 - 📍 For a peek into my XR explorations, don't miss my pinned repos.
+- 🌟 Stay curious !!
 
 ### Connect with me:
 [![website](./assets/logo/gh-light.svg)](https://github.com/kingdomax#gh-light-mode-only)
@@ -44,7 +45,9 @@ Welcome to my digital space. You can call me Moch! I'm a full-stack software eng
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 </div>
-<br><br>
+<br>
 
 <hr>
-<p align="center"><i>🌟 Stay curious !!</i></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kingdomax&label=PROFILE+VIEW&style=for-the-badge" alt="visitors" />
+</p>
