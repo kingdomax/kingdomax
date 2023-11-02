@@ -5,7 +5,6 @@ Welcome to my digital space. You can call me Moch! I'm a full-stack software eng
 - 🎓 ...I’m currently exploring further, pursuing a Masters in computer science in Germany.
 - 👓 Diving deep into the realms of **Virtual Reality (VR)** and **Augmented Reality (AR) development**.
 - 📍 For a peek into my XR explorations, don't miss my pinned repos.
-- 🌟 Stay curious !!
 
 ### Connect with me:
 [![website](./assets/logo/gh.svg)](https://github.com/kingdomax)&nbsp;&nbsp;
@@ -28,11 +27,13 @@ Welcome to my digital space. You can call me Moch! I'm a full-stack software eng
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />  
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 
-          
-
+------------
+<p align="center"><i>🌟 Stay curious !!</i></p>
