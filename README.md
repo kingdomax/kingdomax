@@ -1,7 +1,7 @@
 <h1 align="center">Hi! Nice to see you. 👋</h1>
 
 Welcome to my space. You can call me Moch! I'm a full stack software engineer from Thailand.
-- 🛠 With 6+ years expertise in **web development**...
+- 🛠 With 6+ years expertise in **Web development**...
 - 🎓 ...I’m currently exploring further, pursuing a Masters in computer science in Germany.
 - 👓 Diving deep into the realms of **Virtual Reality (VR)** and **Mixed Reality (MR) development**.
 - 📍 For a peek into my XR explorations, check out my website.
