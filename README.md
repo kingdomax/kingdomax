@@ -1,11 +1,10 @@
 <h1 align="center">Hi! Nice to see you. 👋</h1>
 
-Welcome to my space. You can call me Moch! I'm a full stack software engineer from Thailand.
-- 🛠 With 6+ years expertise in **Web development**...
-- 🎓 ...I’m currently exploring further, pursuing a Masters in computer science in Germany.
-- 👓 Diving deep into the realms of **Virtual Reality (VR)** and **Mixed Reality (MR) development**.
-- 📍 For a peek into my XR explorations, check out my website.
-- 🌟 Stay curious !!
+Welcome to my space. You can call me Moch! I'm a software engineer from Thailand.
+- 🛠 With 6+ years expertise in **Full Stack Web Development**...
+- 🎓 ...I’m currently exploring further, pursuing a Masters's degree in computer science in Germany.
+- 📍 For a peek into my Web, XR and other softwares, check out my website.
+- 🌟 Stay curious & Have a nice day !
 
 ### Connect with me:
 [![website](./assets/logo/gh-light.svg)](https://github.com/kingdomax#gh-light-mode-only)
