@@ -3,7 +3,7 @@
 Welcome to my space. You can call me Moch! I'm a software engineer from Thailand.
 - 🛠 With 6+ years expertise in **Full Stack Web Development**...
 - 🎓 ...I’m currently exploring further, pursuing a Masters's degree in computer science in Germany.
-- 📍 For a peek into my Web, XR and other softwares, check out my website.
+- 📍 For a peek into my Web, XR and other softwares project check out my website.
 - 🌟 Stay curious & Have a nice day !
 
 ### Connect with me:
